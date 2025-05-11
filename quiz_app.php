@@ -43,6 +43,6 @@ if ($answer == "a") {
 } else {
     echo "WRONG ANSWER! CORRECT ANSWER IS TAKA\n";
 }
-
+echo "\n-------- Quiz End --------\n";
 echo "Your Score is $score out of 3\n";
 ?>
